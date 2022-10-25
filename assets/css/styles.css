@@ -149,7 +149,7 @@ button {
     }
     .nav__menu {
         position: fixed;
-        width: 100%;
+        width: 150%;
         height: 100vh;
         background:  hsla(180, 12%, 4%, .3);
         backdrop-filter: blur(20px);
